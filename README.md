@@ -18,5 +18,4 @@ Travel Tix is a full-stack web application designed for booking travel buses, wi
 ### Backend
 - **JSP (JavaServer Pages)**: Used for server-side rendering and dynamic page content generation.
 - **Oracle Database**: Centralized relational database for storing user, bus, and booking data.
-  
-![Travel Tix Logo](assets/logo.png)
+
