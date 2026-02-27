@@ -11,7 +11,7 @@
   [![Framer Motion](https://img.shields.io/badge/Framer_Motion-12.x-black.svg?style=for-the-badge&logo=framer)](https://motion.dev/)
   [![Vite](https://img.shields.io/badge/Vite-5.x-646CFF.svg?style=for-the-badge&logo=vite)](https://vitejs.dev/)
 
-  [Live Demo](#) • [Report Bug](#) • [Request Feature](#)
+  [Live Demo](https://navee107.github.io/TravelTix/) • [Report Bug](#) • [Request Feature](#)
 </div>
 
 ---
@@ -116,11 +116,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## ✉️ Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Naveen Yadav -  work.naveenyd10@gmail.com
 
-Project Link: [https://github.com/your-username/traveltix](https://github.com/your-username/traveltix)
+Project Link: [https://github.com/navee107/TravelTix](https://github.com/navee107/TravelTix)
 
 ---
 <div align="center">
-  <i>Built with ❤️ by <a href="https://github.com/your-username">Your Name</a></i>
+  <i>Built with ❤️ by <a href="https://github.com/your-username">Naveen</a></i>
 </div>
